@@ -12,7 +12,7 @@ const Home = () => {
           A Full-MERN Stack Developer.
         </h3>
         <div className="w-1/2 flex my-2">
-          <a href="https://drive.google.com/file/d/16U2ZG4gbyCacWSYweOFcvtYLWd_YKfdt/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1NKsdzhwcOSSeI6dwDWRkCmlQXItXfY81/view?usp=sharing">
             <button className="bg-white rounded-md flex  mx-5 py-3 px-2 items-center justify-center text-[#66bfbf] hover:text-white hover:bg-[#326e6e]">
               <i className="fa-solid fa-file text-[#66bfbf] "></i>
               <p className="px-1 font-medium">Resume</p>
