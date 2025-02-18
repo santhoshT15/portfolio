@@ -57,6 +57,94 @@ const Projects = () => {
         {/* second project */}
         <div className="flex flex-col md:flex-row justify-center w-full my-5 bg-[#E4F9F5]">
           <div className="w-full sm:w-1/3 flex flex-col items-center justify-center">
+            <h1 className="text-[#11999E] font-bold text-lg">
+              Food Delivery Website
+            </h1>
+            <p className="text-sm/7">
+              This is a full-stack Food Delivery website built using React JS,
+              MongoDB, Express, and Node.js. On this platform, users can browse
+              through a variety of food options, place orders, and make secure
+              payments via Stripe. The website includes a fully integrated admin
+              panel, where the admin can log in to manage orders, track
+              deliveries, and update menu items. The order details and user
+              information are securely stored in MongoDB. Stripe payment
+              integration ensures smooth and safe payment processing for users.
+            </p>
+            <div className=" flex flex-row bg-[#66bfbf] text-white my-2 rounded-md hover:bg-[#1e8585]">
+              <a href="https://food-deliver-app-iota.vercel.app/">
+                <button className=" w-full mx-2 p-3 rounded-md">
+                  <i className="fa-solid fa-code"></i>
+                  <span className="px-2">Preview</span>
+                </button>
+              </a>
+            </div>
+            <div className=" flex flex-row text-white my-2">
+              <a href="https://github.com/santhoshT15/food-deliver-app.git">
+                <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
+                  Front-end code
+                </button>
+              </a>
+              <a href="https://github.com/santhoshT15/food-deliver-app-be.git">
+                <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
+                  Back-end code
+                </button>
+              </a>
+            </div>
+          </div>
+          <img
+            className=" h-auto w-full md:w-1/2 border-solid border-[#E4F9F5] border-[5px] mx-5"
+            src="food_deliver.JPG"
+            alt=""
+          />
+        </div>
+        <hr className="text-[#11999e]" />
+        {/* third project */}
+        <div className="flex flex-col md:flex-row justify-center w-full my-5">
+          <img
+            className=" h-auto w-full md:w-1/2 border-solid border-[#E4F9F5] border-[5px] mx-5"
+            src="travel_Journal.JPG"
+            alt=""
+          />
+          <div className="w-full sm:w-1/3 flex flex-col items-center justify-center">
+            <h1 className="text-[#11999E] font-bold text-lg">
+              Travel Journal Website
+            </h1>
+            <p className="text-sm/7">
+              Welcome to a Full-stack Travel Journal Website, your ultimate
+              destination to explore and share your travel experiences! Built
+              with a combination of powerful technologies like React, Express,
+              Node.js, MongoDB, and Cloudinary, this platform offers a seamless
+              way to document and showcase your travels. Whether you’re
+              reminiscing about an unforgettable adventure or planning your next
+              trip, Wanderlust Journal makes it easy to create, view, and share
+              detailed travel stories
+            </p>
+            <div className=" flex flex-row bg-[#66bfbf] text-white my-2 rounded-md hover:bg-[#1e8585]">
+              <a href="https://santhosh-travel-log-app.netlify.app/">
+                <button className=" w-full mx-2 p-3 rounded-md">
+                  <i className="fa-solid fa-code"></i>
+                  <span className="px-2">Preview</span>
+                </button>
+              </a>
+            </div>
+            <div className=" flex flex-row text-white my-2">
+              <a href="https://github.com/santhoshT15/travel-journal-app-fe.git">
+                <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
+                  Front-end code
+                </button>
+              </a>
+              <a href="https://github.com/santhoshT15/travel-journal-log-be.git">
+                <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
+                  Back-end code
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+        <hr className="text-[#11999e]" />
+        {/* fourth project */}
+        <div className="flex flex-col md:flex-row justify-center w-full my-5 bg-[#E4F9F5]">
+          <div className="w-full sm:w-1/3 flex flex-col items-center justify-center">
             <h1 className="text-[#11999E] font-bold text-lg">Chat Website</h1>
             <p className="text-sm/7">
               This is a Full stack chat app using React JS and Firebase. In this
@@ -94,7 +182,7 @@ const Projects = () => {
           />
         </div>
         <hr className="text-[#11999e]" />
-        {/* third project */}
+        {/* Fiveth project */}
         <div className="flex flex-col md:flex-row justify-center w-full my-5">
           <img
             className=" h-auto w-full md:w-1/2 border-solid border-[#E4F9F5] border-[5px] mx-5"
