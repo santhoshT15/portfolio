@@ -32,7 +32,7 @@ const Projects = () => {
               product with an intergrated razor pay payment system.
             </p>
             <div className=" flex flex-row bg-[#66bfbf] text-white my-2 rounded-md hover:bg-[#1e8585]">
-              <a href="https://sb-store-six.vercel.app/">
+              <a target="_blank" href="https://sb-store-six.vercel.app/">
                 <button className=" w-full mx-2 p-3 rounded-md">
                   <i className="fa-solid fa-code"></i>
                   <span className="px-2">Preview</span>
@@ -40,12 +40,18 @@ const Projects = () => {
               </a>
             </div>
             <div className=" flex flex-row text-white my-2">
-              <a href="https://github.com/santhoshT15/E-Commerce-App-fe.git">
+              <a
+                target="_blank"
+                href="https://github.com/santhoshT15/E-Commerce-App-fe.git"
+              >
                 <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
                   Front-end code
                 </button>
               </a>
-              <a href="https://github.com/santhoshT15/E-Commerce-App/tree/main/backend">
+              <a
+                target="_blank"
+                href="https://github.com/santhoshT15/E-Commerce-App/tree/main/backend"
+              >
                 <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
                   Back-end code
                 </button>
@@ -71,7 +77,10 @@ const Projects = () => {
               integration ensures smooth and safe payment processing for users.
             </p>
             <div className=" flex flex-row bg-[#66bfbf] text-white my-2 rounded-md hover:bg-[#1e8585]">
-              <a href="https://food-deliver-app-iota.vercel.app/">
+              <a
+                target="_blank"
+                href="https://food-deliver-app-iota.vercel.app/"
+              >
                 <button className=" w-full mx-2 p-3 rounded-md">
                   <i className="fa-solid fa-code"></i>
                   <span className="px-2">Preview</span>
@@ -79,12 +88,18 @@ const Projects = () => {
               </a>
             </div>
             <div className=" flex flex-row text-white my-2">
-              <a href="https://github.com/santhoshT15/food-deliver-app.git">
+              <a
+                target="_blank"
+                href="https://github.com/santhoshT15/food-deliver-app.git"
+              >
                 <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
                   Front-end code
                 </button>
               </a>
-              <a href="https://github.com/santhoshT15/food-deliver-app-be.git">
+              <a
+                target="_blank"
+                href="https://github.com/santhoshT15/food-deliver-app-be.git"
+              >
                 <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
                   Back-end code
                 </button>
@@ -120,7 +135,10 @@ const Projects = () => {
               detailed travel stories
             </p>
             <div className=" flex flex-row bg-[#66bfbf] text-white my-2 rounded-md hover:bg-[#1e8585]">
-              <a href="https://santhosh-travel-log-app.netlify.app/">
+              <a
+                target="_blank"
+                href="https://santhosh-travel-log-app.netlify.app/"
+              >
                 <button className=" w-full mx-2 p-3 rounded-md">
                   <i className="fa-solid fa-code"></i>
                   <span className="px-2">Preview</span>
@@ -128,12 +146,18 @@ const Projects = () => {
               </a>
             </div>
             <div className=" flex flex-row text-white my-2">
-              <a href="https://github.com/santhoshT15/travel-journal-app-fe.git">
+              <a
+                target="_blank"
+                href="https://github.com/santhoshT15/travel-journal-app-fe.git"
+              >
                 <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
                   Front-end code
                 </button>
               </a>
-              <a href="https://github.com/santhoshT15/travel-journal-log-be.git">
+              <a
+                target="_blank"
+                href="https://github.com/santhoshT15/travel-journal-log-be.git"
+              >
                 <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
                   Back-end code
                 </button>
@@ -155,7 +179,10 @@ const Projects = () => {
               Database, that send the chat message in Real-time.
             </p>
             <div className=" flex flex-row bg-[#66bfbf] text-white my-2 rounded-md hover:bg-[#1e8585]">
-              <a href="https://chat-app-omega-henna.vercel.app/">
+              <a
+                target="_blank"
+                href="https://chat-app-omega-henna.vercel.app/"
+              >
                 <button className=" w-full mx-2 p-3 rounded-md">
                   <i className="fa-solid fa-code"></i>
                   <span className="px-2">Preview</span>
@@ -163,12 +190,15 @@ const Projects = () => {
               </a>
             </div>
             <div className=" flex flex-row text-white my-2">
-              <a href="https://github.com/santhoshT15/chat-app.git">
+              <a
+                target="_blank"
+                href="https://github.com/santhoshT15/chat-app.git"
+              >
                 <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
                   Front-end code
                 </button>
               </a>
-              {/* <a href="https://github.com/santhoshT15/E-Commerce-App/tree/main/backend">
+              {/* <a target="_blank" href="https://github.com/santhoshT15/E-Commerce-App/tree/main/backend">
                 <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
                   Back-end code
                 </button>
@@ -199,7 +229,10 @@ const Projects = () => {
               commit and delete commit on basis of their need on the website.
             </p>
             <div className=" flex flex-row bg-[#66bfbf] text-white my-2 rounded-md hover:bg-[#1e8585]">
-              <a href="https://sandyversioncontrolsystem.netlify.app/">
+              <a
+                target="_blank"
+                href="https://sandyversioncontrolsystem.netlify.app/"
+              >
                 <button className=" w-full mx-2 p-3 rounded-md">
                   <i className="fa-solid fa-code"></i>
                   <span className="px-2">Preview</span>
@@ -207,12 +240,18 @@ const Projects = () => {
               </a>
             </div>
             <div className=" flex flex-row text-white my-2">
-              <a href="https://github.com/santhoshT15/version-control-system-fe.git">
+              <a
+                target="_blank"
+                href="https://github.com/santhoshT15/version-control-system-fe.git"
+              >
                 <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
                   Front-end code
                 </button>
               </a>
-              <a href="https://github.com/santhoshT15/version-control-system-be.git">
+              <a
+                target="_blank"
+                href="https://github.com/santhoshT15/version-control-system-be.git"
+              >
                 <button className="mx-2 p-3 rounded-md bg-[#66bfbf] hover:bg-[#1e8585] font-medium text-sm">
                   Back-end code
                 </button>
