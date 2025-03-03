@@ -14,7 +14,7 @@ const Home = () => {
         <div className="w-1/2 flex my-2">
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1NKsdzhwcOSSeI6dwDWRkCmlQXItXfY81/view?usp=sharing"
+            href="https://drive.google.com/file/d/1k6fot-iPDgBbDaIKWpusbUXknR4YfMgN/view?usp=sharing"
           >
             <button className="bg-white rounded-md flex  mx-5 py-3 px-2 items-center justify-center text-[#66bfbf] hover:text-white hover:bg-[#326e6e]">
               <i className="fa-solid fa-file text-[#66bfbf] "></i>
