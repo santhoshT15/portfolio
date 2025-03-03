@@ -22,3 +22,9 @@
 .skill {
   writing-mode: vertical-lr;
 }
+
+@layer utilities {
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}

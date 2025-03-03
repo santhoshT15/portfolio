@@ -31,6 +31,26 @@ const Projects = () => {
               Users can able to add product to the cart and can check out the
               product with an intergrated razor pay payment system.
             </p>
+            <div className="flex">
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                React
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                HTML
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                TailwindCss
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                Expressjs
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                Nodejs
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                MongoDB
+              </span>
+            </div>
             <div className=" flex flex-row bg-[#66bfbf] text-white my-2 rounded-md hover:bg-[#1e8585]">
               <a target="_blank" href="https://sb-store-six.vercel.app/">
                 <button className=" w-full mx-2 p-3 rounded-md">
@@ -76,6 +96,26 @@ const Projects = () => {
               information are securely stored in MongoDB. Stripe payment
               integration ensures smooth and safe payment processing for users.
             </p>
+            <div className="flex">
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                React
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                HTML
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                TailwindCss
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                Expressjs
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                Nodejs
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                MongoDB
+              </span>
+            </div>
             <div className=" flex flex-row bg-[#66bfbf] text-white my-2 rounded-md hover:bg-[#1e8585]">
               <a
                 target="_blank"
@@ -134,6 +174,26 @@ const Projects = () => {
               trip, Wanderlust Journal makes it easy to create, view, and share
               detailed travel stories
             </p>
+            <div className="flex">
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                React
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                HTML
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                JavaScript
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                Expressjs
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                Nodejs
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                MongoDB
+              </span>
+            </div>
             <div className=" flex flex-row bg-[#66bfbf] text-white my-2 rounded-md hover:bg-[#1e8585]">
               <a
                 target="_blank"
@@ -178,6 +238,26 @@ const Projects = () => {
               Firebase storage. We will store the chat messages on Firestore
               Database, that send the chat message in Real-time.
             </p>
+            <div className="flex">
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                React
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                HTML
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                TailwindCss
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                FireBase
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                Nodejs
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                Cloudinary
+              </span>
+            </div>
             <div className=" flex flex-row bg-[#66bfbf] text-white my-2 rounded-md hover:bg-[#1e8585]">
               <a
                 target="_blank"
@@ -228,6 +308,26 @@ const Projects = () => {
               commits. Users can able to add repository, add commit, update
               commit and delete commit on basis of their need on the website.
             </p>
+            <div className="flex">
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                React
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                HTML
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                CSS
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                Expressjs
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                Nodejs
+              </span>
+              <span className="text-white bg-gray-400 p-1 rounded m-1">
+                MongoDB
+              </span>
+            </div>
             <div className=" flex flex-row bg-[#66bfbf] text-white my-2 rounded-md hover:bg-[#1e8585]">
               <a
                 target="_blank"

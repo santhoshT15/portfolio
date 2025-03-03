@@ -13,19 +13,6 @@ const Contact = () => {
         </h1>
       </div>
       <div className="flex flex-row items-center justify-center my-6">
-        <a href="tel:+918122968854">
-          <div className="w-1/2 flex flex-row ">
-            <div className=" mx-2">
-              <i className="fa-solid fa-phone fa-2x text-[#11999E]"></i>
-            </div>
-            <div className="mx-1">
-              <h2 className="text-base flex flex-col">
-                <span className="font-medium">Phone</span>
-                <span className="text-gray-500 text-sm">8122968854</span>
-              </h2>
-            </div>
-          </div>
-        </a>
         <a href="mailto:ramsanthoshbms@gmail.com">
           <div className="w-1/2 flex flex-row ">
             <div className="w-auto mx-2">

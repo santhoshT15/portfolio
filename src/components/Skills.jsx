@@ -13,11 +13,11 @@ const Skills = () => {
           <hr className="bg-[#4c80ba] h-[1.5px] border-none" />
         </h1>
       </div>
-      <div className="flex w-full md:w-[54vw] h-auto md:h-[24vh] bg-[#66BFBF] rounded-xl text-white gap-1 my-5">
+      <div className="flex w-full md:w-[54vw] h-auto  bg-[#66BFBF] rounded-xl text-white gap-1 my-5">
         <h1 className="skill text-lg font-semibold text-white w-[5%] text-center rotate-180 align-middle py-2 rounded-br-[10px] rounded-tr-[10px]">
           Frontend
         </h1>
-        <div className="flex flex-row w-[100%] h-32 justify-around items-center overflow-x-scroll">
+        <div className="flex flex-row w-[100%] h-32 justify-around items-center overflow-x-scroll hide-scrollbar">
           <div className="w-[110px] h-[110px] flex flex-col items-center mt-3 rounded-lg p-[5px] bg-[#E4F9F5]">
             <img className="w-[70px] h-[70px]" src="html.png" alt="" />
             <h2 className="mt-1 text-base font-semibold text-[#11999e]">
@@ -58,11 +58,11 @@ const Skills = () => {
           </div>
         </div>
       </div>
-      <div className="flex w-full md:w-[54vw] h-auto md:h-[24vh] bg-[#66BFBF] rounded-xl text-white gap-1 my-5">
+      <div className="flex w-full md:w-[54vw] h-auto bg-[#66BFBF] rounded-xl text-white gap-1 my-5">
         <h1 className="skill text-lg font-semibold text-white w-[5%] text-center rotate-180 align-middle py-2 rounded-br-[10px] rounded-tr-[10px]">
           Backend
         </h1>
-        <div className="flex flex-row w-[100%] h-32 justify-around items-center overflow-x-scroll">
+        <div className="flex flex-row w-[100%] h-32 justify-around items-center overflow-x-scroll hide-scrollbar">
           <div className="w-[110px] h-[110px] flex flex-col items-center mt-3 rounded-lg p-[5px] bg-[#E4F9F5]">
             <img className="w-[70px] h-[70px]" src="nodejs.png" alt="" />
             <h2 className="mt-1 text-base font-semibold text-[#11999e]">
